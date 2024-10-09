@@ -19,7 +19,7 @@
 ---
 ## 💡 About the project
 TEXT TYPING ANIMATION
-- [Demo](#)
+- [Demo](https://elzunayr.github.io/text-typing-animation/)
 
 ## 🚀 Getting started
 
@@ -47,7 +47,7 @@ git clone https://github.com/ElZunayr/text-typing-animation.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi_webp/PZwH_qZwpUM/mqdefault.webp?v=66feb64c&sqp=CNC3_rcG&rs=AOn4CLDbLRyaJzP558C0qJ-BH71bybfrKg)](https://youtu.be/PZwH_qZwpUM)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/JxzyVG-fVVw/mqdefault.jpg?v=67065fea&sqp=CLTLmbgG&rs=AOn4CLDNTvKCNczD0vOhKHCK8k1NvfkzVg)](https://youtu.be/JxzyVG-fVVw)
 
 ## 📝 License
 
