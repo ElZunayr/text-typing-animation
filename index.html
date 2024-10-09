@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- HEAD OPEN -->
+     <head>
+        <!-- META -->
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <!-- Favicon -->
+        <link rel="icon" href="assets\favicon.ico" type="image/x-icon" />
+        
+         <!-- TITLE -->
+          <title>Text Typing Animation | HTML, CSS, & JAVASCRIPT</title>
+          <!-- STYLE -->
+           <style>
+            /* Import Google Font */
+            @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+            /* Style Root */
+            *{
+                margin: 1em;
+                padding: 0;
+                box-sizing: border-box;
+                font-family: "Edu AU VIC WA NT Guides", cursive;
+                font-optical-sizing: auto;
+                font-weight: 600;
+                font-style: normal;
+            }
+            body{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                background-color: #d9d9d9;
+                min-height: 80vh;
+                text-transform: capitalize;
+            }
+            #writinglocation{
+                color: #353535;
+                /* Style For Size Text */
+                font-size: 6rem;
+                font-weight: 600;
+            }
+           </style>
+          <!-- HEAD CLOSE -->
+     </head>
+     <!-- BODY OPEN -->
+      <!-- Load Function script -->
+      <body onload="write()">
+        <!-- id Writing Location -->
+         <div id="writinglocation"></div>
+         <!-- SCRIPT WRITING -->
+          <script>
+            var i = 0;
+            var writing = "Text Typing Animation | HTML, CSS, & JAVASCRIPT | ELZUNAYR";
+            // Script For Speed Typing Text
+            var speed = 160; // in milisecond
+
+            function write() {
+                if(i < writing.length){
+                    document.getElementById("writinglocation").innerHTML += writing.charAt(i);
+                    i++
+                    setTimeout(write, speed);
+                }
+            }
+          </script>
+          <!-- BODY CLOSE -->
+      </body>
+</html>
