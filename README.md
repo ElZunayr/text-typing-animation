@@ -58,7 +58,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 Made with by EL Zunayr Development 
 
 ---
-Support El Zunayr :wave: [Get in touch](buymeacoffee.com/elzunayr)
+Support El Zunayr :wave: [Get in touch](https://sociabuzz.com/elzunayr)
 
 ## 🔗 References
 - https://youtu.be/ZPIhPPK4OMo?si=UIvJrXlkl_WbUPrj
