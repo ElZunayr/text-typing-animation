@@ -47,7 +47,7 @@ git clone https://github.com/ElZunayr/text-typing-animation.git
 Once your pull request has been merged, you can delete your branch.
 
 ## 🧰 Video Youtube
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/JxzyVG-fVVw/mqdefault.jpg?v=67065fea&sqp=CLTLmbgG&rs=AOn4CLDNTvKCNczD0vOhKHCK8k1NvfkzVg)](https://youtu.be/JxzyVG-fVVw)
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/JxzyVG-fVVw/mqdefault.jpg?v=671a1ffc&sqp=CJiYhrkG&rs=AOn4CLCsT7qc_-Hk-zYeoltIemJshTFMsg)](https://youtu.be/JxzyVG-fVVw)
 
 ## 📝 License
 
